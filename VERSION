@@ -1,0 +1,7 @@
+# Increment major version
+VERSION_MAJOR = 0
+# Increment minor version
+VERSION_MINOR = 1
+PATCHLEVEL = 0
+VERSION_TWEAK = 0
+EXTRAVERSION = 
